@@ -3,7 +3,7 @@
 Welcome to the Optimism Collective Ecosystem Contributions repository. Here you'll find various different ways to contribute to the Optimism Collective so that we can build an economy that works for humans, together. 
 
 ## Table of Contents
-
+m,
 - [Contribution Categories](#contribution-categories)
 - [Finding a Project](#finding-a-project)
 - [Working on a Project](#working-on-a-project)
